@@ -1,0 +1,31 @@
+** MVC **
+- is an architectural pattern
+- I look at the 'Model' as the class/place where you can get data, usually database data; 
+'Controller' as the one who manage all the process which depends to the user who 'uses' the 'View', the Controller
+is the medium where the 'View' and the 'Model' communicate.
+- It separates the responsibilities/categories. The benefit is to avoid mixing code for better debugging. I can
+think of it like the Single Responsibility (SOLID) of Categories.
+
+** Composer **
+- It will get all the libraries/dependecies that you'll require for your project/system to use.
+
+** REST **
+- Is the WAY to use HTTP protocol's method (GET, POST, PUT and DELETE) by creating a certain resource/endpoint 
+that will perform an action based on the method.
+- is a set of rules and contains several architectural constraints
+
+** Virtualization **
+- creating a virtual version of something. Ex: partitioning, virtual machine (uses the storage/resources of one machine)
+
+** Give at least 5 well know PHP Frameworks that you know **
+1. Zend 1 - I used this for my previous company's in-house project
+2. Zend 2 - I used this for my previous company's in-house project
+3. CodeIgniter - I used this one time
+4. CakePHP - I used this when I was in college
+5. YiiFramework - I used this one time
+6. Laravel, just learned of it last month (January)
+
+
+
+NOTE:
+- I didn't understand the 'Application of Composer'.
